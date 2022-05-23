@@ -1,12 +1,14 @@
 /*commons*/
-.text-center{
-    text-align: center;
-    /* Formula non contratta
+.border-separator{
+    border-bottom: 2px solid goldenrod;
+    /* Formula non contratta:
     border-bottom-width: 2px;
     border-bottom-style: solid;
     border-bottom-color: goldenrod;
     */
-    border-bottom: 2px solid goldenrod;
+}
+.text-center{
+    text-align: center;
 }
 /*Inizio stile header*/
 header{
