@@ -1,6 +1,9 @@
+/*commons*/
+.text-center{
+    text-align: center;
+}
 /*Inizio stile header*/
 header{
-    text-align: center;
     background-color: #ededed;
 }
 #profile-pic{
