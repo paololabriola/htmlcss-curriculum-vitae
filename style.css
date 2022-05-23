@@ -1,12 +1,4 @@
 /*commons*/
-.border-separator{
-    border-bottom: 2px solid goldenrod;
-    /* Formula non contratta:
-    border-bottom-width: 2px;
-    border-bottom-style: solid;
-    border-bottom-color: goldenrod;
-    */
-}
 .text-center{
     text-align: center;
 }
@@ -21,6 +13,12 @@ h3{
 /*Inizio stile header*/
 header{
     background-color: #ededed;
+    border-bottom: 2px solid goldenrod;
+    /* Formula non contratta:
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: goldenrod;
+    */
 }
 #profile-pic{
     height: 250px;
@@ -28,6 +26,7 @@ header{
 /*Fine stile header*/
 /*Inizio footer*/
 footer{
+    border-top: 2px solid goldenrod;
     font-size: smaller;
 }
 /*Fine footer*/
